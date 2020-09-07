@@ -1,0 +1,6 @@
+C:\Users\amang\source\repos\ArrayListNon-GenericRemove\ArrayListNon-GenericRemove\bin\Debug\ArrayListNon-GenericRemove.exe.config
+C:\Users\amang\source\repos\ArrayListNon-GenericRemove\ArrayListNon-GenericRemove\bin\Debug\ArrayListNon-GenericRemove.exe
+C:\Users\amang\source\repos\ArrayListNon-GenericRemove\ArrayListNon-GenericRemove\bin\Debug\ArrayListNon-GenericRemove.pdb
+C:\Users\amang\source\repos\ArrayListNon-GenericRemove\ArrayListNon-GenericRemove\obj\Debug\ArrayListNon-GenericRemove.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\ArrayListNon-GenericRemove\ArrayListNon-GenericRemove\obj\Debug\ArrayListNon-GenericRemove.exe
+C:\Users\amang\source\repos\ArrayListNon-GenericRemove\ArrayListNon-GenericRemove\obj\Debug\ArrayListNon-GenericRemove.pdb

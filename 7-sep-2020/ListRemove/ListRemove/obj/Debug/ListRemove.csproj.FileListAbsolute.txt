@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\ListRemove\ListRemove\bin\Debug\ListRemove.exe.config
+C:\Users\amang\source\repos\ListRemove\ListRemove\bin\Debug\ListRemove.exe
+C:\Users\amang\source\repos\ListRemove\ListRemove\bin\Debug\ListRemove.pdb
+C:\Users\amang\source\repos\ListRemove\ListRemove\obj\Debug\ListRemove.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\ListRemove\ListRemove\obj\Debug\ListRemove.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\ListRemove\ListRemove\obj\Debug\ListRemove.exe
+C:\Users\amang\source\repos\ListRemove\ListRemove\obj\Debug\ListRemove.pdb

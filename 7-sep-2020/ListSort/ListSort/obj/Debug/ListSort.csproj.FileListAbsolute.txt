@@ -1,0 +1,6 @@
+C:\Users\amang\source\repos\ListSort\ListSort\bin\Debug\ListSort.exe.config
+C:\Users\amang\source\repos\ListSort\ListSort\bin\Debug\ListSort.exe
+C:\Users\amang\source\repos\ListSort\ListSort\bin\Debug\ListSort.pdb
+C:\Users\amang\source\repos\ListSort\ListSort\obj\Debug\ListSort.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\ListSort\ListSort\obj\Debug\ListSort.exe
+C:\Users\amang\source\repos\ListSort\ListSort\obj\Debug\ListSort.pdb

@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\ArrayListProperies\ArrayListProperies\bin\Debug\ArrayListProperies.exe.config
+C:\Users\amang\source\repos\ArrayListProperies\ArrayListProperies\bin\Debug\ArrayListProperies.exe
+C:\Users\amang\source\repos\ArrayListProperies\ArrayListProperies\bin\Debug\ArrayListProperies.pdb
+C:\Users\amang\source\repos\ArrayListProperies\ArrayListProperies\obj\Debug\ArrayListProperies.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\ArrayListProperies\ArrayListProperies\obj\Debug\ArrayListProperies.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\ArrayListProperies\ArrayListProperies\obj\Debug\ArrayListProperies.exe
+C:\Users\amang\source\repos\ArrayListProperies\ArrayListProperies\obj\Debug\ArrayListProperies.pdb

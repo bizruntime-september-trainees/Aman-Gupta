@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\HashSetExceptWith\HashSetExceptWith\bin\Debug\HashSetExceptWith.exe.config
+C:\Users\amang\source\repos\HashSetExceptWith\HashSetExceptWith\bin\Debug\HashSetExceptWith.exe
+C:\Users\amang\source\repos\HashSetExceptWith\HashSetExceptWith\bin\Debug\HashSetExceptWith.pdb
+C:\Users\amang\source\repos\HashSetExceptWith\HashSetExceptWith\obj\Debug\HashSetExceptWith.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\HashSetExceptWith\HashSetExceptWith\obj\Debug\HashSetExceptWith.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\HashSetExceptWith\HashSetExceptWith\obj\Debug\HashSetExceptWith.exe
+C:\Users\amang\source\repos\HashSetExceptWith\HashSetExceptWith\obj\Debug\HashSetExceptWith.pdb

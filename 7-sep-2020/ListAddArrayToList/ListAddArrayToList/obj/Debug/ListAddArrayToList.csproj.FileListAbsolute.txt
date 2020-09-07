@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\ListAddArrayToList\ListAddArrayToList\bin\Debug\ListAddArrayToList.exe.config
+C:\Users\amang\source\repos\ListAddArrayToList\ListAddArrayToList\bin\Debug\ListAddArrayToList.exe
+C:\Users\amang\source\repos\ListAddArrayToList\ListAddArrayToList\bin\Debug\ListAddArrayToList.pdb
+C:\Users\amang\source\repos\ListAddArrayToList\ListAddArrayToList\obj\Debug\ListAddArrayToList.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\ListAddArrayToList\ListAddArrayToList\obj\Debug\ListAddArrayToList.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\ListAddArrayToList\ListAddArrayToList\obj\Debug\ListAddArrayToList.exe
+C:\Users\amang\source\repos\ListAddArrayToList\ListAddArrayToList\obj\Debug\ListAddArrayToList.pdb

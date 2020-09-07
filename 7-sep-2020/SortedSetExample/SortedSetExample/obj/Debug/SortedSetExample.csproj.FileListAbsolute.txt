@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\SortedSetExample\SortedSetExample\bin\Debug\SortedSetExample.exe.config
+C:\Users\amang\source\repos\SortedSetExample\SortedSetExample\bin\Debug\SortedSetExample.exe
+C:\Users\amang\source\repos\SortedSetExample\SortedSetExample\bin\Debug\SortedSetExample.pdb
+C:\Users\amang\source\repos\SortedSetExample\SortedSetExample\obj\Debug\SortedSetExample.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\SortedSetExample\SortedSetExample\obj\Debug\SortedSetExample.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\SortedSetExample\SortedSetExample\obj\Debug\SortedSetExample.exe
+C:\Users\amang\source\repos\SortedSetExample\SortedSetExample\obj\Debug\SortedSetExample.pdb
