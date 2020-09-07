@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\ThrowException\ThrowException\bin\Debug\ThrowException.exe.config
+C:\Users\amang\source\repos\ThrowException\ThrowException\bin\Debug\ThrowException.exe
+C:\Users\amang\source\repos\ThrowException\ThrowException\bin\Debug\ThrowException.pdb
+C:\Users\amang\source\repos\ThrowException\ThrowException\obj\Debug\ThrowException.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\ThrowException\ThrowException\obj\Debug\ThrowException.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\ThrowException\ThrowException\obj\Debug\ThrowException.exe
+C:\Users\amang\source\repos\ThrowException\ThrowException\obj\Debug\ThrowException.pdb
