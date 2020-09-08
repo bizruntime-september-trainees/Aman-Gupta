@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\BlockingCollectionAddMethod\BlockingCollectionAddMethod\bin\Debug\BlockingCollectionAddMethod.exe.config
+C:\Users\amang\source\repos\BlockingCollectionAddMethod\BlockingCollectionAddMethod\bin\Debug\BlockingCollectionAddMethod.exe
+C:\Users\amang\source\repos\BlockingCollectionAddMethod\BlockingCollectionAddMethod\bin\Debug\BlockingCollectionAddMethod.pdb
+C:\Users\amang\source\repos\BlockingCollectionAddMethod\BlockingCollectionAddMethod\obj\Debug\BlockingCollectionAddMethod.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\BlockingCollectionAddMethod\BlockingCollectionAddMethod\obj\Debug\BlockingCollectionAddMethod.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\BlockingCollectionAddMethod\BlockingCollectionAddMethod\obj\Debug\BlockingCollectionAddMethod.exe
+C:\Users\amang\source\repos\BlockingCollectionAddMethod\BlockingCollectionAddMethod\obj\Debug\BlockingCollectionAddMethod.pdb

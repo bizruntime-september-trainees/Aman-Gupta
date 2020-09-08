@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\BlockingCollectionTakeMethod\BlockingCollectionTakeMethod\obj\Debug\BlockingCollectionTakeMethod.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\BlockingCollectionTakeMethod\BlockingCollectionTakeMethod\bin\Debug\BlockingCollectionTakeMethod.exe.config
+C:\Users\amang\source\repos\BlockingCollectionTakeMethod\BlockingCollectionTakeMethod\bin\Debug\BlockingCollectionTakeMethod.exe
+C:\Users\amang\source\repos\BlockingCollectionTakeMethod\BlockingCollectionTakeMethod\bin\Debug\BlockingCollectionTakeMethod.pdb
+C:\Users\amang\source\repos\BlockingCollectionTakeMethod\BlockingCollectionTakeMethod\obj\Debug\BlockingCollectionTakeMethod.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\BlockingCollectionTakeMethod\BlockingCollectionTakeMethod\obj\Debug\BlockingCollectionTakeMethod.exe
+C:\Users\amang\source\repos\BlockingCollectionTakeMethod\BlockingCollectionTakeMethod\obj\Debug\BlockingCollectionTakeMethod.pdb

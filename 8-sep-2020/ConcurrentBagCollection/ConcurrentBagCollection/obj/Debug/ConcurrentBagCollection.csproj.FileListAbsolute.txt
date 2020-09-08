@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\ConcurrentBagCollection\ConcurrentBagCollection\bin\Debug\ConcurrentBagCollection.exe.config
+C:\Users\amang\source\repos\ConcurrentBagCollection\ConcurrentBagCollection\bin\Debug\ConcurrentBagCollection.exe
+C:\Users\amang\source\repos\ConcurrentBagCollection\ConcurrentBagCollection\bin\Debug\ConcurrentBagCollection.pdb
+C:\Users\amang\source\repos\ConcurrentBagCollection\ConcurrentBagCollection\obj\Debug\ConcurrentBagCollection.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\ConcurrentBagCollection\ConcurrentBagCollection\obj\Debug\ConcurrentBagCollection.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\ConcurrentBagCollection\ConcurrentBagCollection\obj\Debug\ConcurrentBagCollection.exe
+C:\Users\amang\source\repos\ConcurrentBagCollection\ConcurrentBagCollection\obj\Debug\ConcurrentBagCollection.pdb

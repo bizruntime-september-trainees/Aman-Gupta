@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\EventProgram\EventProgram\bin\Debug\EventProgram.exe.config
+C:\Users\amang\source\repos\EventProgram\EventProgram\bin\Debug\EventProgram.exe
+C:\Users\amang\source\repos\EventProgram\EventProgram\bin\Debug\EventProgram.pdb
+C:\Users\amang\source\repos\EventProgram\EventProgram\obj\Debug\EventProgram.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\EventProgram\EventProgram\obj\Debug\EventProgram.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\EventProgram\EventProgram\obj\Debug\EventProgram.exe
+C:\Users\amang\source\repos\EventProgram\EventProgram\obj\Debug\EventProgram.pdb

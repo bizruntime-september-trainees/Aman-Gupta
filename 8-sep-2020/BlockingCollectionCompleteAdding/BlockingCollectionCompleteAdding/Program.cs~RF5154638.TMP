@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Concurrent;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BlockingCollectionCompleteAdding
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            BlockingCollection<int> bCollection = new BlockingCollection<int>(boundedCapacity: 10);
+
+            Task producerThread = Task.Factory.StartNew(() =>
+            {
+                int i;
+                for ( i = 0; i < 10; ++i)
+                {
+                    bCollection.Add(i);
+                    Console.WriteLine(bCollection);   
+                }
+               
+
+                bCollection.CompleteAdding();
+            });
+
+            
+        }
+    }
+}
