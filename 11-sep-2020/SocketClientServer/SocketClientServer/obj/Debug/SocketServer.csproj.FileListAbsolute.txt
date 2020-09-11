@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\SocketClientServer\SocketClientServer\bin\Debug\SocketClientServer.exe.config
+C:\Users\amang\source\repos\SocketClientServer\SocketClientServer\bin\Debug\SocketClientServer.exe
+C:\Users\amang\source\repos\SocketClientServer\SocketClientServer\bin\Debug\SocketClientServer.pdb
+C:\Users\amang\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketClientServer.exe
+C:\Users\amang\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketClientServer.pdb
+C:\Users\amang\source\repos\SocketClientServer\SocketClientServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
