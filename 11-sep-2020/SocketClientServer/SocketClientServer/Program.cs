@@ -6,32 +6,40 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
 using Microsoft.SqlServer.Server;
+using System.Threading;
 
 namespace SocketServer
 {
     class Program
     {
-        static byte[] Buffer { get; set; }
-        static Socket sck;
+        //static byte[] Buffer { get; set; }
+        static Socket ServerSocket;
         static void Main(string[] args)
         {
-            sck = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-            sck.Bind(new IPEndPoint(IPAddress.Parse("192.168.1.33"), 1111));
-            sck.Listen(2);
-            Socket Acceptedd = sck.Accept();
-            Buffer = new byte[Acceptedd.SendBufferSize];
-            int byteRead = Acceptedd.Receive(Buffer);
-            byte[] formatted = new byte[byteRead];
-            int i;
-            for ( i = 0; i < byteRead;i++)
+            ServerSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+            ServerSocket.Bind(new IPEndPoint(IPAddress.Parse("192.168.1.33"), 1111));
+            ServerSocket.Listen(100);
+            Console.WriteLine("server is listening");
+            Socket ClientSocket = default(Socket);
+            int counter = 0;
+            while(true)
             {
-                formatted[i] = Buffer[i];
+                counter++;
+                ClientSocket = ServerSocket.Accept();
+                Console.WriteLine(counter + "Clients Connected ");
+                Thread userthread = new Thread(new ThreadStart(() => user(ClientSocket)));
+                userthread.Start();
             }
-            string strdata = Encoding.ASCII.GetString(formatted);
-            Console.WriteLine(strdata);
-            Console.Read();
-            sck.Close();
-            Acceptedd.Close();
+           
+        }
+        public static void user(Socket SocketClient)
+        {
+            while(true)
+            {
+                byte[] msgtoServer = new byte[1024];
+                int size = SocketClient.Receive(msgtoServer);
+                SocketClient.Send(msgtoServer, 0, size, SocketFlags.None);
+            }
         }
     }
 }

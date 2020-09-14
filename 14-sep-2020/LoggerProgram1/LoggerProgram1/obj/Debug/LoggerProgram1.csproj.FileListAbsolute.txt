@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\LoggerProgram1\LoggerProgram1\bin\Debug\LoggerProgram1.exe.config
+C:\Users\amang\source\repos\LoggerProgram1\LoggerProgram1\bin\Debug\LoggerProgram1.exe
+C:\Users\amang\source\repos\LoggerProgram1\LoggerProgram1\bin\Debug\LoggerProgram1.pdb
+C:\Users\amang\source\repos\LoggerProgram1\LoggerProgram1\obj\Debug\LoggerProgram1.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\LoggerProgram1\LoggerProgram1\obj\Debug\LoggerProgram1.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\LoggerProgram1\LoggerProgram1\obj\Debug\LoggerProgram1.exe
+C:\Users\amang\source\repos\LoggerProgram1\LoggerProgram1\obj\Debug\LoggerProgram1.pdb
