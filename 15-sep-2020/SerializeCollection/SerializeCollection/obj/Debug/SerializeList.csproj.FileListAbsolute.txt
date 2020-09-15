@@ -1,0 +1,10 @@
+C:\Users\amang\source\repos\SerializeCollection\SerializeCollection\bin\Debug\SerializeCollection.exe.config
+C:\Users\amang\source\repos\SerializeCollection\SerializeCollection\bin\Debug\SerializeCollection.exe
+C:\Users\amang\source\repos\SerializeCollection\SerializeCollection\bin\Debug\SerializeCollection.pdb
+C:\Users\amang\source\repos\SerializeCollection\SerializeCollection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amang\source\repos\SerializeCollection\SerializeCollection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amang\source\repos\SerializeCollection\SerializeCollection\obj\Debug\SerializeList.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\SerializeCollection\SerializeCollection\obj\Debug\SerializeList.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\SerializeCollection\SerializeCollection\obj\Debug\SerializeList.csproj.CopyComplete
+C:\Users\amang\source\repos\SerializeCollection\SerializeCollection\obj\Debug\SerializeCollection.exe
+C:\Users\amang\source\repos\SerializeCollection\SerializeCollection\obj\Debug\SerializeCollection.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5++RhLUuST8JuJaxLHHi/TY4Gryzyq6U2MHP+cLSPv88OV0d/RoCuAuTJrXctE3lXhm+Rg9NJSRKkmvUAYhLIA==",
+  "dgSpecHash": "WsjGqXz1JCt5sZ8dbiIFM0l+ow9R0FawmlyYJEnooW78bfMFMBUhn6Sd2dr3RViEykN11d0HJEbOuLzcqngzig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amang\\source\\repos\\Calculator\\CalculatorUnitTest\\CalculatorUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\amang\\Desktop\\Aman-Gupta\\14-sep-2020\\Calculator\\CalculatorUnitTest\\CalculatorUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amang\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\amang\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

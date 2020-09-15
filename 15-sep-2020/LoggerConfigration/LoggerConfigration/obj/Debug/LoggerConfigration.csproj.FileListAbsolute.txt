@@ -1,0 +1,10 @@
+C:\Users\amang\Desktop\Aman-Gupta\14-sep-2020\LoggerConfigration\LoggerConfigration\bin\Debug\LoggerConfigration.exe.config
+C:\Users\amang\Desktop\Aman-Gupta\14-sep-2020\LoggerConfigration\LoggerConfigration\bin\Debug\LoggerConfigration.exe
+C:\Users\amang\Desktop\Aman-Gupta\14-sep-2020\LoggerConfigration\LoggerConfigration\bin\Debug\LoggerConfigration.pdb
+C:\Users\amang\Desktop\Aman-Gupta\14-sep-2020\LoggerConfigration\LoggerConfigration\bin\Debug\log4net.dll
+C:\Users\amang\Desktop\Aman-Gupta\14-sep-2020\LoggerConfigration\LoggerConfigration\bin\Debug\log4net.xml
+C:\Users\amang\Desktop\Aman-Gupta\14-sep-2020\LoggerConfigration\LoggerConfigration\obj\Debug\LoggerConfigration.csprojAssemblyReference.cache
+C:\Users\amang\Desktop\Aman-Gupta\14-sep-2020\LoggerConfigration\LoggerConfigration\obj\Debug\LoggerConfigration.csproj.CoreCompileInputs.cache
+C:\Users\amang\Desktop\Aman-Gupta\14-sep-2020\LoggerConfigration\LoggerConfigration\obj\Debug\LoggerConfigration.csproj.CopyComplete
+C:\Users\amang\Desktop\Aman-Gupta\14-sep-2020\LoggerConfigration\LoggerConfigration\obj\Debug\LoggerConfigration.exe
+C:\Users\amang\Desktop\Aman-Gupta\14-sep-2020\LoggerConfigration\LoggerConfigration\obj\Debug\LoggerConfigration.pdb

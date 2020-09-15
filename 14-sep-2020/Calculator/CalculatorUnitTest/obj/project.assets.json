@@ -5736,11 +5736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amang\\source\\repos\\Calculator\\CalculatorUnitTest\\CalculatorUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\amang\\Desktop\\Aman-Gupta\\14-sep-2020\\Calculator\\CalculatorUnitTest\\CalculatorUnitTest.csproj",
       "projectName": "CalculatorUnitTest",
-      "projectPath": "C:\\Users\\amang\\source\\repos\\Calculator\\CalculatorUnitTest\\CalculatorUnitTest.csproj",
+      "projectPath": "C:\\Users\\amang\\Desktop\\Aman-Gupta\\14-sep-2020\\Calculator\\CalculatorUnitTest\\CalculatorUnitTest.csproj",
       "packagesPath": "C:\\Users\\amang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amang\\source\\repos\\Calculator\\CalculatorUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\amang\\Desktop\\Aman-Gupta\\14-sep-2020\\Calculator\\CalculatorUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5756,8 +5756,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\amang\\source\\repos\\Calculator\\CalculatorFunction\\CalculatorFunction.csproj": {
-              "projectPath": "C:\\Users\\amang\\source\\repos\\Calculator\\CalculatorFunction\\CalculatorFunction.csproj"
+            "C:\\Users\\amang\\Desktop\\Aman-Gupta\\14-sep-2020\\Calculator\\CalculatorFunction\\CalculatorFunction.csproj": {
+              "projectPath": "C:\\Users\\amang\\Desktop\\Aman-Gupta\\14-sep-2020\\Calculator\\CalculatorFunction\\CalculatorFunction.csproj"
             }
           }
         }
