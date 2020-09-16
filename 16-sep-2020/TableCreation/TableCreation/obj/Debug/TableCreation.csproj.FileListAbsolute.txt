@@ -1,0 +1,7 @@
+C:\Users\amang\source\repos\TableCreation\TableCreation\bin\Debug\TableCreation.exe.config
+C:\Users\amang\source\repos\TableCreation\TableCreation\bin\Debug\TableCreation.exe
+C:\Users\amang\source\repos\TableCreation\TableCreation\bin\Debug\TableCreation.pdb
+C:\Users\amang\source\repos\TableCreation\TableCreation\obj\Debug\TableCreation.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\TableCreation\TableCreation\obj\Debug\TableCreation.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\TableCreation\TableCreation\obj\Debug\TableCreation.exe
+C:\Users\amang\source\repos\TableCreation\TableCreation\obj\Debug\TableCreation.pdb

@@ -1,0 +1,6 @@
+C:\Users\amang\source\repos\TABLEDATARetrive\TABLEDATARetrive\bin\Debug\TABLEDATARetrive.exe.config
+C:\Users\amang\source\repos\TABLEDATARetrive\TABLEDATARetrive\bin\Debug\TABLEDATARetrive.exe
+C:\Users\amang\source\repos\TABLEDATARetrive\TABLEDATARetrive\bin\Debug\TABLEDATARetrive.pdb
+C:\Users\amang\source\repos\TABLEDATARetrive\TABLEDATARetrive\obj\Debug\TABLEDATARetrive.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\TABLEDATARetrive\TABLEDATARetrive\obj\Debug\TABLEDATARetrive.exe
+C:\Users\amang\source\repos\TABLEDATARetrive\TABLEDATARetrive\obj\Debug\TABLEDATARetrive.pdb
