@@ -19,8 +19,8 @@ namespace ADOConnection
             SqlConnection sqlConnection = new SqlConnection(connString);
             sqlConnection.Open();
             Console.WriteLine("Connection to databse successful");
-            SqlCommand cmd = new SqlCommand("select * from StudentTable");
-            Console.WriteLine(cmd);
+           //// SqlCommand cmd = new SqlCommand("select * from StudentTable",sqlConne
+            ////Console.WriteLine(cmd);
             Console.ReadLine();
 
             sqlConnection.Close();
