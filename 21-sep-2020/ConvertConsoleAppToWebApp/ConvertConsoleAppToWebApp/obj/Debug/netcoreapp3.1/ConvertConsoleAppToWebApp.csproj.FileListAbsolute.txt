@@ -1,0 +1,17 @@
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\bin\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.exe
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\bin\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.deps.json
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\bin\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.runtimeconfig.json
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\bin\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.runtimeconfig.dev.json
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\bin\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.dll
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\bin\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.pdb
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\obj\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\obj\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.AssemblyInfoInputs.cache
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\obj\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.AssemblyInfo.cs
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\obj\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\obj\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\obj\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ConvertConsoleAppToWebApp.StaticWebAssets.Manifest.cache
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ConvertConsoleAppToWebApp.StaticWebAssets.xml
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\obj\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.dll
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\obj\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.pdb
+C:\Users\amang\source\repos\ConvertConsoleAppToWebApp\ConvertConsoleAppToWebApp\obj\Debug\netcoreapp3.1\ConvertConsoleAppToWebApp.genruntimeconfig.cache
