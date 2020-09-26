@@ -1,7 +1,0 @@
-C:\Users\amang\source\repos\SqlCommand\SqlCommand\bin\Debug\SqlCommand.exe.config
-C:\Users\amang\source\repos\SqlCommand\SqlCommand\bin\Debug\SqlCommand.exe
-C:\Users\amang\source\repos\SqlCommand\SqlCommand\bin\Debug\SqlCommand.pdb
-C:\Users\amang\source\repos\SqlCommand\SqlCommand\obj\Debug\SqlCommand.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\SqlCommand\SqlCommand\obj\Debug\SqlCommand.exe
-C:\Users\amang\source\repos\SqlCommand\SqlCommand\obj\Debug\SqlCommand.pdb
-C:\Users\amang\source\repos\SqlCommand\SqlCommand\obj\Debug\SqlCommand.csprojAssemblyReference.cache

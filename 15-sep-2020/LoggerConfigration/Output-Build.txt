@@ -1,3 +1,0 @@
-﻿1>------ Build started: Project: LoggerConfigration, Configuration: Debug Any CPU ------
-1>  LoggerConfigration -> C:\Users\amang\Desktop\Aman-Gupta\14-sep-2020\LoggerConfigration\LoggerConfigration\bin\Debug\LoggerConfigration.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

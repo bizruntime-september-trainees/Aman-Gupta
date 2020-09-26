@@ -1,0 +1,16 @@
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\bin\Debug\RXNETPROGRAM3.exe.config
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\bin\Debug\RXNETPROGRAM3.exe
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\bin\Debug\RXNETPROGRAM3.pdb
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\bin\Debug\System.Reactive.dll
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\bin\Debug\System.ValueTuple.dll
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\bin\Debug\System.Reactive.xml
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\bin\Debug\System.ValueTuple.xml
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\obj\Debug\RXNETPROGRAM3.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\obj\Debug\RXNETPROGRAM3.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\obj\Debug\RXNETPROGRAM3.csproj.CopyComplete
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\obj\Debug\RXNETPROGRAM3.exe
+C:\Users\amang\source\repos\RXNETPROGRAM3\RXNETPROGRAM3\obj\Debug\RXNETPROGRAM3.pdb

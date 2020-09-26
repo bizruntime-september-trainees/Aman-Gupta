@@ -1,7 +1,0 @@
-C:\Users\amang\source\repos\CocurrentBagRetriveAll\CocurrentBagRetriveAll\bin\Debug\CocurrentBagRetriveAll.exe.config
-C:\Users\amang\source\repos\CocurrentBagRetriveAll\CocurrentBagRetriveAll\bin\Debug\CocurrentBagRetriveAll.exe
-C:\Users\amang\source\repos\CocurrentBagRetriveAll\CocurrentBagRetriveAll\bin\Debug\CocurrentBagRetriveAll.pdb
-C:\Users\amang\source\repos\CocurrentBagRetriveAll\CocurrentBagRetriveAll\obj\Debug\CocurrentBagRetriveAll.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\CocurrentBagRetriveAll\CocurrentBagRetriveAll\obj\Debug\CocurrentBagRetriveAll.exe
-C:\Users\amang\source\repos\CocurrentBagRetriveAll\CocurrentBagRetriveAll\obj\Debug\CocurrentBagRetriveAll.pdb
-C:\Users\amang\source\repos\CocurrentBagRetriveAll\CocurrentBagRetriveAll\obj\Debug\CocurrentBagRetriveAll.csprojAssemblyReference.cache

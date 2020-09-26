@@ -1,7 +1,0 @@
-C:\Users\amang\source\repos\HashSetIntersect\HashSetIntersect\bin\Debug\HashSetIntersect.exe.config
-C:\Users\amang\source\repos\HashSetIntersect\HashSetIntersect\bin\Debug\HashSetIntersect.exe
-C:\Users\amang\source\repos\HashSetIntersect\HashSetIntersect\bin\Debug\HashSetIntersect.pdb
-C:\Users\amang\source\repos\HashSetIntersect\HashSetIntersect\obj\Debug\HashSetIntersect.csprojAssemblyReference.cache
-C:\Users\amang\source\repos\HashSetIntersect\HashSetIntersect\obj\Debug\HashSetIntersect.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\HashSetIntersect\HashSetIntersect\obj\Debug\HashSetIntersect.exe
-C:\Users\amang\source\repos\HashSetIntersect\HashSetIntersect\obj\Debug\HashSetIntersect.pdb

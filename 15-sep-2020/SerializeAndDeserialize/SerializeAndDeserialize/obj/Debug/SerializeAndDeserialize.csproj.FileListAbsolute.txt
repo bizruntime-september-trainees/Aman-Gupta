@@ -1,7 +1,0 @@
-C:\Users\amang\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\bin\Debug\SerializeAndDeserialize.exe.config
-C:\Users\amang\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\bin\Debug\SerializeAndDeserialize.exe
-C:\Users\amang\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\bin\Debug\SerializeAndDeserialize.pdb
-C:\Users\amang\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.csprojAssemblyReference.cache
-C:\Users\amang\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.exe
-C:\Users\amang\source\repos\SerializeAndDeserialize\SerializeAndDeserialize\obj\Debug\SerializeAndDeserialize.pdb

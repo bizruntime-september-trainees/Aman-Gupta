@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RXDOTNETPROGRAM7", "RXDOTNETPROGRAM7\RXDOTNETPROGRAM7.csproj", "{E49A1A88-9384-4A51-A7A7-EEE86CA72367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E49A1A88-9384-4A51-A7A7-EEE86CA72367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49A1A88-9384-4A51-A7A7-EEE86CA72367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49A1A88-9384-4A51-A7A7-EEE86CA72367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49A1A88-9384-4A51-A7A7-EEE86CA72367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A03AAA2-022A-41B5-BD31-8D3D86D84778}
+	EndGlobalSection
+EndGlobal

@@ -1,7 +1,0 @@
-C:\Users\amang\source\repos\DelegatesProgram2\DelegatesProgram2\bin\Debug\DelegatesProgram2.exe.config
-C:\Users\amang\source\repos\DelegatesProgram2\DelegatesProgram2\bin\Debug\DelegatesProgram2.exe
-C:\Users\amang\source\repos\DelegatesProgram2\DelegatesProgram2\bin\Debug\DelegatesProgram2.pdb
-C:\Users\amang\source\repos\DelegatesProgram2\DelegatesProgram2\obj\Debug\DelegatesProgram2.csprojAssemblyReference.cache
-C:\Users\amang\source\repos\DelegatesProgram2\DelegatesProgram2\obj\Debug\DelegatesProgram2.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\DelegatesProgram2\DelegatesProgram2\obj\Debug\DelegatesProgram2.exe
-C:\Users\amang\source\repos\DelegatesProgram2\DelegatesProgram2\obj\Debug\DelegatesProgram2.pdb

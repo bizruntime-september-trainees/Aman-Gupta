@@ -1,0 +1,16 @@
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\bin\Debug\RXDOTNETPROGRAM10.exe.config
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\bin\Debug\RXDOTNETPROGRAM10.exe
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\bin\Debug\RXDOTNETPROGRAM10.pdb
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\bin\Debug\System.Reactive.dll
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\bin\Debug\System.ValueTuple.dll
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\bin\Debug\System.Reactive.xml
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\bin\Debug\System.ValueTuple.xml
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\obj\Debug\RXDOTNETPROGRAM10.csprojAssemblyReference.cache
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\obj\Debug\RXDOTNETPROGRAM10.csproj.CoreCompileInputs.cache
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\obj\Debug\RXDOTNETPROGRAM10.csproj.CopyComplete
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\obj\Debug\RXDOTNETPROGRAM10.exe
+C:\Users\amang\source\repos\RXDOTNETPROGRAM10\RXDOTNETPROGRAM10\obj\Debug\RXDOTNETPROGRAM10.pdb

@@ -1,6 +1,0 @@
-C:\Users\amang\source\repos\ListObjectEqualOrNot\ListObjectEqualOrNot\bin\Debug\ListObjectEqualOrNot.exe.config
-C:\Users\amang\source\repos\ListObjectEqualOrNot\ListObjectEqualOrNot\bin\Debug\ListObjectEqualOrNot.exe
-C:\Users\amang\source\repos\ListObjectEqualOrNot\ListObjectEqualOrNot\bin\Debug\ListObjectEqualOrNot.pdb
-C:\Users\amang\source\repos\ListObjectEqualOrNot\ListObjectEqualOrNot\obj\Debug\ListObjectEqualOrNot.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\ListObjectEqualOrNot\ListObjectEqualOrNot\obj\Debug\ListObjectEqualOrNot.exe
-C:\Users\amang\source\repos\ListObjectEqualOrNot\ListObjectEqualOrNot\obj\Debug\ListObjectEqualOrNot.pdb

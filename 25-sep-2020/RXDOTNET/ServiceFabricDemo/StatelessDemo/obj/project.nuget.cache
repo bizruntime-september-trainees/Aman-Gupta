@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "IxKjwM9mBVv7TLi15CtsA8eYsWwKItV/erv6TMCYObydDWGeKUy0gHYrYYRTwh6QMWrnbmw1VNGip1DxUKPizg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amang\\source\\repos\\ServiceFabricDemo\\StatelessDemo\\StatelessDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amang\\.nuget\\packages\\microsoft.servicefabric\\7.1.458\\microsoft.servicefabric.7.1.458.nupkg.sha512",
+    "C:\\Users\\amang\\.nuget\\packages\\microsoft.servicefabric.data\\4.1.458\\microsoft.servicefabric.data.4.1.458.nupkg.sha512",
+    "C:\\Users\\amang\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\4.1.458\\microsoft.servicefabric.data.extensions.4.1.458.nupkg.sha512",
+    "C:\\Users\\amang\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\4.1.458\\microsoft.servicefabric.data.interfaces.4.1.458.nupkg.sha512",
+    "C:\\Users\\amang\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\4.1.458\\microsoft.servicefabric.diagnostics.internal.4.1.458.nupkg.sha512",
+    "C:\\Users\\amang\\.nuget\\packages\\microsoft.servicefabric.services\\4.1.458\\microsoft.servicefabric.services.4.1.458.nupkg.sha512",
+    "C:\\Users\\amang\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\amang\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.0\\microsoft.netcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\amang\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.0\\microsoft.aspnetcore.app.runtime.win-x64.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

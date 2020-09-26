@@ -1,6 +1,0 @@
-C:\Users\amang\source\repos\TABLERECORDDelete\TABLERECORDDelete\bin\Debug\TABLERECORDDelete.exe.config
-C:\Users\amang\source\repos\TABLERECORDDelete\TABLERECORDDelete\bin\Debug\TABLERECORDDelete.exe
-C:\Users\amang\source\repos\TABLERECORDDelete\TABLERECORDDelete\bin\Debug\TABLERECORDDelete.pdb
-C:\Users\amang\source\repos\TABLERECORDDelete\TABLERECORDDelete\obj\Debug\TABLERECORDDelete.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\TABLERECORDDelete\TABLERECORDDelete\obj\Debug\TABLERECORDDelete.exe
-C:\Users\amang\source\repos\TABLERECORDDelete\TABLERECORDDelete\obj\Debug\TABLERECORDDelete.pdb

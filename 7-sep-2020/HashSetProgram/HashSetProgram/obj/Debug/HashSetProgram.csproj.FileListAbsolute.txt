@@ -1,7 +1,0 @@
-C:\Users\amang\source\repos\HashSetProgram\HashSetProgram\bin\Debug\HashSetProgram.exe.config
-C:\Users\amang\source\repos\HashSetProgram\HashSetProgram\bin\Debug\HashSetProgram.exe
-C:\Users\amang\source\repos\HashSetProgram\HashSetProgram\bin\Debug\HashSetProgram.pdb
-C:\Users\amang\source\repos\HashSetProgram\HashSetProgram\obj\Debug\HashSetProgram.csprojAssemblyReference.cache
-C:\Users\amang\source\repos\HashSetProgram\HashSetProgram\obj\Debug\HashSetProgram.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\HashSetProgram\HashSetProgram\obj\Debug\HashSetProgram.exe
-C:\Users\amang\source\repos\HashSetProgram\HashSetProgram\obj\Debug\HashSetProgram.pdb

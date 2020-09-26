@@ -1,6 +1,0 @@
-C:\Users\amang\source\repos\HashSetClear\HashSetClear\bin\Debug\HashSetClear.exe.config
-C:\Users\amang\source\repos\HashSetClear\HashSetClear\bin\Debug\HashSetClear.exe
-C:\Users\amang\source\repos\HashSetClear\HashSetClear\bin\Debug\HashSetClear.pdb
-C:\Users\amang\source\repos\HashSetClear\HashSetClear\obj\Debug\HashSetClear.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\HashSetClear\HashSetClear\obj\Debug\HashSetClear.exe
-C:\Users\amang\source\repos\HashSetClear\HashSetClear\obj\Debug\HashSetClear.pdb

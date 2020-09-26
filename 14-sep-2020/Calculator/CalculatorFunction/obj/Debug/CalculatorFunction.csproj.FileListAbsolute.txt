@@ -1,7 +1,0 @@
-C:\Users\amang\source\repos\Calculator\CalculatorFunction\obj\Debug\CalculatorFunction.csprojAssemblyReference.cache
-C:\Users\amang\source\repos\Calculator\CalculatorFunction\obj\Debug\CalculatorFunction.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\Calculator\CalculatorFunction\bin\Debug\CalculatorFunction.exe.config
-C:\Users\amang\source\repos\Calculator\CalculatorFunction\bin\Debug\CalculatorFunction.exe
-C:\Users\amang\source\repos\Calculator\CalculatorFunction\bin\Debug\CalculatorFunction.pdb
-C:\Users\amang\source\repos\Calculator\CalculatorFunction\obj\Debug\CalculatorFunction.exe
-C:\Users\amang\source\repos\Calculator\CalculatorFunction\obj\Debug\CalculatorFunction.pdb

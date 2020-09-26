@@ -1,7 +1,0 @@
-C:\Users\amang\source\repos\FileIOProgram1\FileIOProgram1\obj\Debug\FileIOProgram1.csprojAssemblyReference.cache
-C:\Users\amang\source\repos\FileIOProgram1\FileIOProgram1\obj\Debug\FileIOProgram1.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\FileIOProgram1\FileIOProgram1\bin\Debug\FileIOProgram1.exe.config
-C:\Users\amang\source\repos\FileIOProgram1\FileIOProgram1\bin\Debug\FileIOProgram1.exe
-C:\Users\amang\source\repos\FileIOProgram1\FileIOProgram1\bin\Debug\FileIOProgram1.pdb
-C:\Users\amang\source\repos\FileIOProgram1\FileIOProgram1\obj\Debug\FileIOProgram1.exe
-C:\Users\amang\source\repos\FileIOProgram1\FileIOProgram1\obj\Debug\FileIOProgram1.pdb

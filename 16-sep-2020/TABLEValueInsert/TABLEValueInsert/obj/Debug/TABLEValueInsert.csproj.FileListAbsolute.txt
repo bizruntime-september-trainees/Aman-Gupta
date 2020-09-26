@@ -1,6 +1,0 @@
-C:\Users\amang\source\repos\TABLEValueInsert\TABLEValueInsert\bin\Debug\TABLEValueInsert.exe.config
-C:\Users\amang\source\repos\TABLEValueInsert\TABLEValueInsert\bin\Debug\TABLEValueInsert.exe
-C:\Users\amang\source\repos\TABLEValueInsert\TABLEValueInsert\bin\Debug\TABLEValueInsert.pdb
-C:\Users\amang\source\repos\TABLEValueInsert\TABLEValueInsert\obj\Debug\TABLEValueInsert.csproj.CoreCompileInputs.cache
-C:\Users\amang\source\repos\TABLEValueInsert\TABLEValueInsert\obj\Debug\TABLEValueInsert.exe
-C:\Users\amang\source\repos\TABLEValueInsert\TABLEValueInsert\obj\Debug\TABLEValueInsert.pdb
