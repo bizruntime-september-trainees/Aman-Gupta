@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> WebWorker</title>
+        <style>
+            div1{
+                margin-left: 350px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div id="div1">
+            <h2> Example of WebWorker</h2>
+            <label> Enter Number to Find Square : </label> <br>
+            <input type="text" name="num" id="num"/> <br>
+            <br> <button id ="submit"> Submit </button>
+            <button id="other"> Wait </button>
+
+            <div id="text"></div>
+
+        </div>
+        <script>
+            document.getElementById("other").onclick = function()
+            {
+                alert("WebWorker is working ,You can wait to get Result.");
+            }
+            var worker = new Worker("C.js");
+            worker.onmessage = function(event)
+            {
+                document.getElementById("text").innerText = event.data;
+            }
+            document.getElementById("submit").onclick = function()
+            {
+                var num = document.getElementById("num").value;
+               
+            }
+
+        </script>
+    </body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- hidding the default -->
+        <style type="text/css">
+        
+            #input{
+                    width: 0px;
+                    height: 0px;
+                    overflow: hidden;
+            }
+            #input + label
+            {
+                display: inline;
+                background-color: burlywood;
+                font-family: 'Times New Roman', Times, serif;
+                padding: 5px;
+                font-size: 25px;
+            }
+            #input:focus +label{
+                outline: 2px dashed blue;
+            }
+        </style>
+    </head>
+    <body>
+        <input type="file" accept="image/*" name="input" id="input">
+        <label for="input">Choose file</label>
+    </body>
+</html>

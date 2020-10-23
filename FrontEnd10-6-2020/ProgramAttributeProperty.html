@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!--here there are two attribute id and onclick.-->
+<button id="myBtn" onclick="myFunction()">Try it</button>
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myBtn").attributes.length;
+  document.getElementById("demo").innerHTML = x;
+}
+</script>
+
+</body>
+</html>

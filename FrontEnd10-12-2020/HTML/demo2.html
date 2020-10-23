@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- <link rel="stylesheet" href="E:\FrontEnd\FrontEnd10-12-2020\CSS\demo3.css"> -->
+    </head>
+    
+    <body>
+        <p style="color:white">Count:<output id="result"></output></p>
+        <button onclick="startWorker()">start Worker</button>
+        <button onclick="stopWorker()">stop Worker</button>
+    
+        <script>
+            var w;
+            function startWorker()
+            {
+                if(typeof(worker) !== "undefined")
+                {
+                    if(typeof(w) == "undefined")
+                    {
+                        w = new Worker("E:\FrontEnd\FrontEnd10-12-2020\JAVASCRIPT\demo1.js");
+                    }
+                        w.onmessage = function(event)
+                    {
+                        document.getElementById("result").innerHTML = event.data;
+                    };
+                 }
+                else
+                {   
+                    document.getElementById("result").innerHTML = "no web Worker support ";
+                }
+            }
+
+            function stopWorker()
+            {
+                w.terminate();
+                w = undefined;
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,53 @@
+<!--socket keek tcp and udp connection alive-->
+<!-- data exchange -->
+<!-- unless anyone side disconnect client or server -->
+<!-- type=websocket -->
+<!-- Headers=>protocol handshake so that server knows you are the one who requested the data -->
+<!-- frame or message =>server message and message you are sending over the socket will be logged -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" placeholder="your message here" id="text">
+    <button>send hello</button>
+    <div id="log"></div>
+  <script>
+      //we are using websocket consctructor
+      //in that we pass url
+      //this should be the URL to which the WebSocket server will respond
+      
+      var socket=new WebSocket("ws://localhost:5001");
+      var readyState1 = socket.readyState;
+      console.log(readyState1);
+
+      socket.onmessage=function(event){
+          console.log(event);
+          log.innerHTML +=event.data+"<br>";
+          var readyState2 = socket.readyState;
+          console.log(readyState2);
+      }
+      //when we click on button we will come to this function
+      //it will get the text which I have wrriten
+      //it send the text to the server
+      //The querySelector() method returns the first element 
+      //that matches a specified CSS selector(s) in the document
+      //The getElementById() method returns the element 
+      //that has the ID attribute with the specified value
+      document.querySelector('button').onclick=function(){
+        var text=document.getElementById('text').value;  
+        socket.send(text);
+      }
+      socket.onclose = function(event) {
+        
+        console.log("WebSocket is closed now.");
+        var readyState4 = socket.readyState;
+        console.log(readyState4);
+
+};
+  </script>
+</body>
+</html>

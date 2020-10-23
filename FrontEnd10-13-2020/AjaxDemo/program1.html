@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+   
+    <title>Ajax Coding</title>
+</head>
+
+<body>
+    <h1>Ajax</h1>
+    <button type="button" id="fetchbtn" onclick="buttenClickhandler()">Fetch data</button>
+    <button type="button" id="backupbtn" >Backup Button</button>
+    <script >
+       
+        function buttenClickhandler()
+        {
+            console.log("you have clicked the fetchbtn");
+            //instantiate  and xmlhttprequest object
+            const xhr=new XMLHttpRequest();
+
+            xhr.onreadystatechange=function(){
+                console.log("ready status is ",xhr.readyState);
+            }
+
+            //open the object
+            xhr.open("GET","aman.txt",true);
+
+            xhr.onreadystatechange=function(){
+                console.log("ready status is ",xhr.readyState);
+            }
+            
+            //track the progress (optional)
+            xhr.onprogress =function(){
+                console.log("on progress");
+            }
+            //what to do when respnse is ready 
+            xhr.onload=function (){
+                if(this.status === 200)
+                {
+                console.log(this.responseText)
+                }
+                else{
+                    console.log("error message");
+                }
+            }
+            //send the request
+            xhr.send();
+        }
+    </script>
+   
+</body>
+
+</html>

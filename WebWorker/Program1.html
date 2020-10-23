@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Web Worker</title>
+    </head>
+    <body>
+        <h3> Check This Browser supports Web Worker or not : </h3>
+        <div id="support"></div>
+        <div id="unsupport"></div>
+        <button onclick="worker();">Click Me</button>
+        <script type="text/javascript">
+        function worker()
+        {
+            if(typeof(W)!=="undefined")
+            {
+                document.getElementById("support").innerHTML= "Browser is Supporting Web Worker";
+            }
+            else{
+                document.getElementById("unsupport").innerHTML = "Browser is not Supporting Web Worker";
+            }
+        }
+
+        </script>
+    </body>
+</html>

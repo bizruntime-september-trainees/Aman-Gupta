@@ -1,0 +1,13 @@
+E:\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.exe
+E:\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.deps.json
+E:\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.runtimeconfig.json
+E:\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.runtimeconfig.dev.json
+E:\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.dll
+E:\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.pdb
+E:\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.csprojAssemblyReference.cache
+E:\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.AssemblyInfoInputs.cache
+E:\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.AssemblyInfo.cs
+E:\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.csproj.CoreCompileInputs.cache
+E:\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.dll
+E:\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.pdb
+E:\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.genruntimeconfig.cache

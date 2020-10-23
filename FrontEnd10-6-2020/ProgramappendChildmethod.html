@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <!--The <div> tag defines a division or a section in an HTML document-->
+<div id="myDIV">
+A DIV element
+</div>
+<button onclick="myFunction()">Try it</button>
+<script>
+function myFunction() {
+    //create the paragraph
+  var para = document.createElement("P");
+  //create the text node in paragraph
+  var t = document.createTextNode("This is a paragraph.");
+  //this will append the text to para
+  para.appendChild(t);
+  document.getElementById("myDIV").appendChild(para);
+}
+</script>
+
+</body>
+</html>
